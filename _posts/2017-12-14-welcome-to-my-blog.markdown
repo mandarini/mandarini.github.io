@@ -9,5 +9,5 @@ This is my first post!
 
 {% highlight js %}
 window.alert('Hi Katerina')
-#=> alerts 'Hi, Katerina'.
+// alerts 'Hi, Katerina'
 {% endhighlight %}
