@@ -1,3 +1,63 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-12-29T16:04:40+02:00</updated><id>http://localhost:4000/</id><title type="html">Katerina’s Blog</title><subtitle>Katerina Skroumpelou's personal blog</subtitle><entry><title type="html">Other test post</title><link href="http://localhost:4000/main/2017/12/14/my-other-post.html" rel="alternate" type="text/html" title="Other test post" /><published>2017-12-14T19:24:43+02:00</published><updated>2017-12-14T19:24:43+02:00</updated><id>http://localhost:4000/main/2017/12/14/my-other-post</id><content type="html" xml:base="http://localhost:4000/main/2017/12/14/my-other-post.html">&lt;p&gt;This is my second post!&lt;/p&gt;</content><author><name></name></author><summary type="html">This is my second post!</summary></entry><entry><title type="html">Welcome to Katerina</title><link href="http://localhost:4000/main/2017/12/14/welcome-to-my-blog.html" rel="alternate" type="text/html" title="Welcome to Katerina" /><published>2017-12-14T18:39:43+02:00</published><updated>2017-12-14T18:39:43+02:00</updated><id>http://localhost:4000/main/2017/12/14/welcome-to-my-blog</id><content type="html" xml:base="http://localhost:4000/main/2017/12/14/welcome-to-my-blog.html">&lt;p&gt;This is my first post!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-12-29T16:50:09+02:00</updated><id>http://localhost:4000/</id><title type="html">Katerina’s Blog</title><subtitle>Katerina Skroumpelou's personal blog</subtitle><entry><title type="html">Angular Connect 2017</title><link href="http://localhost:4000/main/2017/12/29/angular-connect-2017.html" rel="alternate" type="text/html" title="Angular Connect 2017" /><published>2017-12-29T14:22:00+02:00</published><updated>2017-12-29T14:22:00+02:00</updated><id>http://localhost:4000/main/2017/12/29/angular-connect-2017</id><content type="html" xml:base="http://localhost:4000/main/2017/12/29/angular-connect-2017.html">&lt;h2 id=&quot;the-conference&quot;&gt;the conference&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/panorama.jpg&quot; alt=&quot;Angular Connect 2017&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Well, this year I had the incredible opportunity to present at Angular Connect 2017. 
+I was planning this since April 2017, asking for help in what to submit
+in the hangouts office hours and frantically searching for a way to fit my
+not so technical experience into a worthy talk.&lt;/p&gt;
+
+&lt;p&gt;Finally, with the help and suggestions of the AngularConnect team, I decided
+to make a talk about my journey from Architectural Engineering studies into
+professional web development. The essence would be how I got to transfer skills I
+learned/acquired in architectural engineering school into my professional life as a web developer.&lt;/p&gt;
+
+&lt;p&gt;My talk was accepted initially as a lightning talk, which was just as wonderful for me!
+I set down and prepared my 5 minutes slides and talk, being all to careful to stay within the time limit.&lt;/p&gt;
+
+&lt;p&gt;Then the incredible happened. I was flying to London on Friday the 3rd. My presentation was set for Tuesday the 7th of
+ November. On Thursday the 2nd I received an email from the organizers inviting me to give a 20 minute talk instead!
+ Words are not enough to express my excitement. I accepted the offer and I got down to work. Luckily, Peter from the
+ organizers was there to help me get all prepared, with rehearsals and advice.&lt;/p&gt;
+
+&lt;p&gt;Finally, all was ready!&lt;/p&gt;
+
+&lt;p&gt;The big day came and I was there in the morning, second talk after the keynote, after a great technical talk from
+ Olivier Combe about i18n, which made me even more nervous! :) However, I went on stage and I delivered my talk.
+ I hold on to that feeling and I have to say it was unique.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/oliv.jpg&quot; alt=&quot;Pre Talk&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After the hard part was over, I was able to enjoy the rest of the conference without worrying, having fun and 
+ learing all new things about Angular. And, of course, meeting a whole bunch of new people, feeling at home,
+ feeling that I was among friends.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/games.jpg&quot; alt=&quot;Pre Talk&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Thank you all!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/friends.jpg&quot; alt=&quot;Pre Talk&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;nggirls&quot;&gt;ngGirls&lt;/h2&gt;
+
+&lt;p&gt;The first day of the conference was dedicated to a number of angular workshops. One of these was organized by ngGirls,
+and I had the chance to be a mentor for women wanting an intro to angular.&lt;/p&gt;
+
+&lt;p&gt;I enjoyed the experience and I had great fun working with a first year of college student, building together a simple
+ angular application. I strongly believe that these kind of workshops are very important, because, from my personal 
+ experience, women are not yet a norm in the technology sector, something that might discourage many of us to 
+ be involved or choose such a career. One of the consequences is that usually women in the tech sector feel the need
+ to prove themselves more than men do. Getting them onto a path (however early or late) towards a tech career and
+ introducing them into an environment filled with women who follow it already, might make them feel stronger
+ and see that they can, too, belong there, without needing to prove anything else. More on this on a future post,
+ maybe. :)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/girls.jpg&quot; alt=&quot;Pre Talk&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;conference-material&quot;&gt;conference material&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://drive.google.com/file/d/1hH_NCUj165pc9tcTb7cabw8u5MrvZXg4/view&quot;&gt;here&lt;/a&gt; are my slides and&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.angularconnect.com/2017/&quot;&gt;here&lt;/a&gt; is the link to the conference page.&lt;/p&gt;</content><author><name></name></author><summary type="html">the conference</summary></entry><entry><title type="html">Welcome to Katerina</title><link href="http://localhost:4000/main/2017/12/14/welcome-to-my-blog.html" rel="alternate" type="text/html" title="Welcome to Katerina" /><published>2017-12-14T18:39:43+02:00</published><updated>2017-12-14T18:39:43+02:00</updated><id>http://localhost:4000/main/2017/12/14/welcome-to-my-blog</id><content type="html" xml:base="http://localhost:4000/main/2017/12/14/welcome-to-my-blog.html">&lt;p&gt;This is my first post!&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Hi Katerina'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;br data-jekyll-commonmark-ghpages=&quot;&quot; /&gt;&lt;span class=&quot;c1&quot;&gt;// alerts 'Hi, Katerina'&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name></name></author><summary type="html">This is my first post!</summary></entry></feed>
