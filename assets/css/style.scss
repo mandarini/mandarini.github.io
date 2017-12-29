@@ -1,0 +1,158 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+img.clip-circle {
+  width: 120px;
+  margin: 0px;
+}
+
+.clip-circle {
+  clip-path: circle(60px at center);
+}
+
+.filter {
+  filter: sepia(0.3);
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  margin-bottom: 35px;
+}
+
+body {
+  margin: 60px auto;
+  font-family: 'Roboto', 'Arial', 'Sans-Serif';
+  width: 70%;
+  background-color: transparent;
+}
+
+nav ul, footer ul {
+  font-family: 'Roboto', 'Arial', 'Sans-Serif';
+  padding: 0px;
+  list-style: none;
+  font-weight: normal;
+}
+
+nav ul li, footer ul li {
+  //display: inline;
+  margin-right: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #999;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+}
+
+p {
+  line-height: 1.4em;
+  color: #333;
+}
+
+
+
+footer {
+  border-top: 1px solid #d5d5d5;
+  font-size: .8em;
+}
+
+ul.posts {
+  margin: 20px auto 40px;
+  font-size: 1.5em;
+}
+
+ul.posts li {
+  list-style: none;
+}
+
+.rss-subscribe {
+  font-size: 12px;
+}
+
+.icon--linkedin {
+
+}
+
+.cv-container {
+  font-size: 14px;
+  h1 {
+   font-size: 18px;
+  }
+
+  h2 {
+    font-size: 16px;
+  }
+
+  section {
+    margin-bottom: 15px;
+  }
+}
+
+.cv-head {
+  font-size: 0.8em;
+  padding: 5px;
+  border: solid #aaaaaa 1px;
+  border-radius: 5px;
+  p {
+    text-align: left;
+    margin-bottom: 5px;
+  }
+}
+
+
+.cv-summary {
+
+  p {
+    text-align: center;
+  }
+}
+
+.cv-skills {
+
+  //font-size: 0.9em;
+
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  table td, table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+
+  table tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+
+  table tr:hover {
+    background-color: #ddd;
+  }
+
+  table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    color: #555555;
+  }
+}
+
+.cv-work {
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  table td {
+    border: 1px solid #bbb;
+    padding: 8px;
+  }
+}
