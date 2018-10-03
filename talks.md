@@ -1,10 +1,23 @@
----
+ 
 layout: page
 title: Talks
 permalink: /talks/
----
+ 
 
-Here's a list of all talks I've given to tech conferences!
+### Here's a list of all my tech conference activity
+
+* [AngularConnect 2017](#angularconnect-2017)
+* [ngVikings 2018](#ngvikings-2018)
+* [iJS London 2018](#ijs-london-2018)
+* [WeAreDevelopers 2018](#wearedevelopers-2018)
+* [Voxxed Days Athens 2018](#voxxed-days-athens-2018)
+* [CodeEurope 2018](#codeeurope-2018)
+* [Angular UP 2018](#angular-up-2018)
+* [ngColombia 2018](#ngcolombia-2018)
+* [iJS Munich 2018](#ijs-munich-2018)
+* [Voxxed Days Thessaloniki 2018](#voxxed-days-thessaloniki-2018)
+* [FrontEnd Connect 2018](#frontend-connect-2018)
+* [ngAtlanta 2019](#ngatlanta-2019)
 
 ## AngularConnect 2017
 _Location:_ London, UK
@@ -26,6 +39,11 @@ As an architectural engineer by training, and working as a web dev for the past 
 #### Other info
 
 Also mentored ngGirls! :)
+
+[top](#heres-a-list-of-all-my-tech-conference-activity)
+ 
+___
+
 
 ## ngVikings 2018
 _Location:_ Helsinki, Finland
@@ -50,6 +68,11 @@ More and more web applications using Angular today need a kind of map, either to
 
 Also mentored ngGirls! :)
 
+[top](#heres-a-list-of-all-my-tech-conference-activity)
+  
+___
+
+
 ## iJS London 2018
 _Location:_ London, UK
 
@@ -68,6 +91,10 @@ More and more web applications using Angular today need a kind of map, either to
 * [Code](https://github.com/mandarini/mapp)
 * [Live Demo](https://mandarini.github.io/mapp)
 
+[top](#heres-a-list-of-all-my-tech-conference-activity)
+
+___
+ 
 ## WeAreDevelopers 2018
 _Location:_ Vienna, Austria
 
@@ -87,6 +114,11 @@ In my presentation, I will show how you can use physical motion (moving your pho
 * [Code 3](https://github.com/mandarini/wsserver)
 * [Live Demo 1](https://mandarini.github.io/m)
 * [Live Demo 2](https://mandarini.github.io/im)
+
+[top](#heres-a-list-of-all-my-tech-conference-activity)
+  
+___
+
 
 ## Voxxed Days Athens 2018
 _Location:_ Athens, Greece
@@ -108,6 +140,11 @@ Using Angular and WebSockets we will be turning physical motion into virtual mot
 * [Live Demo 1](https://mandarini.github.io/m)
 * [Live Demo 2](https://mandarini.github.io/im)
 
+[top](#heres-a-list-of-all-my-tech-conference-activity)
+  
+___
+
+
 ## CodeEurope 2018
 _Location:_ Poznan, Greece
 
@@ -127,6 +164,11 @@ Using Angular and WebSockets we will be turning physical motion into virtual mot
 * [Live Demo 1](https://mandarini.github.io/m)
 * [Live Demo 2](https://mandarini.github.io/im)
 
+[top](#heres-a-list-of-all-my-tech-conference-activity)
+  
+___
+
+
 ## Angular UP 2018
 _Location:_ Tel Aviv, Israel
 
@@ -144,6 +186,11 @@ Maps, today, are an essential of the internet. Think of any app, and you will re
 * [Code 2](https://github.com/mandarini/map-dashboard)
 * [Live Demo 1](https://mandarini.github.io/map-user)
 * [Live Demo 2](https://mandarini.github.io/map-dashboard)
+
+[top](#heres-a-list-of-all-my-tech-conference-activity)
+  
+___
+
 
 ## ngColombia 2018
 _Location:_ Medellin, Colombia
@@ -186,6 +233,11 @@ _Number of participants:_ around 40
 * [Code](https://github.com/mandarini/ngc-workshop)
 * [Live Demo](https://mandarini.github.io/ngc-workshop/)
 
+[top](#heres-a-list-of-all-my-tech-conference-activity)
+  
+___
+
+
 ## iJS Munich 2018
 _Location:_ Munich, Germany
 
@@ -196,6 +248,11 @@ _Date:_ 17 Oct 2018
 #### Description
 Using Angular and WebSockets we will be turning physical motion into virtual motion, in order to perform actions in our browser (navigation, event firing, etc). We will see the integration process step-by-step, resulting in a simple web application using WebSockets, Angular and a plain WebSocket client/server node.js server. Once we launch this application on our phone, it will start sending device motion data from our phone to the browser, using the brand new device event APIs to capture our device’s acceleration, orientation and motion, and our node.js server to perform the transmission. The browser will receive the motion data, and it will translate it into events and actions on the big screen! Tools that are going to be used are the WebSockets API, Angular, RxJS and a little Node.js server. Observable sequences will help us subscribe and listen to incoming messages, firing events in the process. The presentation will be interactive (users connected to the same network will be able to send data with their phone, too).
 
+[top](#heres-a-list-of-all-my-tech-conference-activity)
+ 
+___
+
+ 
 ## Voxxed Days Thessaloniki 2018
 _Location:_ Thessaloniki, Greece
 
@@ -206,6 +263,11 @@ _Date:_ 19 Nov 2018
 #### Description
 In this session will explore the awesome Lighthouse tool and its cool features. We will start from bootstrapping a simple web application, and we will see how we can reach better scores in each of the five audits of Lighthouse, “PWA”, “Performance”, “Accessibility”, “Best Practices” and “SEO” in our web applications. The purpose of the talk will be to showcase how the Lighthouse tool can help us build better apps for the web, and the mobile web. And the accessible web. And the web where connectivity is poor and you end up playing T-Rex runner.
 
+[top](#heres-a-list-of-all-my-tech-conference-activity)
+ 
+___
+
+ 
 ## FrontEnd Connect 2018
 _Location:_ Warsaw, Poland
 
@@ -225,6 +287,10 @@ The participants of this workshop will work hands on with Firebase in an Angular
 _Date:_ 3 Dec 2018
 
 _Duration:_ 8 hours
+
+[top](#heres-a-list-of-all-my-tech-conference-activity)
+ 
+___
 
 ## ngAtlanta 2019
 _Location:_ Altanta, USA
