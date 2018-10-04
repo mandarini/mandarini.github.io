@@ -3,16 +3,10 @@
 
 @import "{{ site.theme }}";
 
-
-.prof-pic {
-  margin: 0 auto;
-  width: 120px;
-}
-
 img.clip-circle {
   width: 120px;
+  margin: 0px;
 }
-
 
 .clip-circle {
   clip-path: circle(60px at center);
