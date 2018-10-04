@@ -24,6 +24,8 @@ $content-width:    800px !default;
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
 
+$table-text-align: none;
+
 // Use media queries like this:
 // @include media-query($on-palm) {
 //   .wrapper {
@@ -42,8 +44,4 @@ $on-laptop:        800px !default;
 }
 
 // Import partials.
-@import
-  "minima/base",
-  "minima/layout",
-  "minima/syntax-highlighting"
-;
+@import "minima/base", "minima/layout", "minima/syntax-highlighting";
