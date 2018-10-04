@@ -1,3 +1,6 @@
+---
+---
+
 @import "{{ site.theme }}";
 
 img.clip-circle {
@@ -56,9 +59,34 @@ p {
 
 footer {
   border-top: 1px solid #d5d5d5;
-  font-size: .8em;
-}
+  
+  .footer-cont {
+   font-size: .8em;
+   display: flex;
+   flex-direction: row;
 
+   .footer-item {
+     display: flex;
+     flex-direction: column;
+   }
+
+   .social-sect {
+     div{
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: space-between;  
+
+      a {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+      }
+     }
+   }
+  }
+}
 ul.posts {
   margin: 20px auto 40px;
   font-size: 1.5em;
