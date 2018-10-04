@@ -1,5 +1,5 @@
 current directory: /home/anastasis/Documents/katerina/mandarini.github.io/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.8.4/ext/nokogiri
-/usr/bin/ruby2.3 -r ./siteconf20181004-3372-negkd2.rb extconf.rb
+/usr/bin/ruby2.3 -r ./siteconf20181004-8139-hywxlx.rb extconf.rb
 checking if the C compiler accepts ... yes
 Building nokogiri using packaged libraries.
 Using mini_portile version 2.3.0
