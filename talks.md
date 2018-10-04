@@ -1,8 +1,8 @@
- 
+---
 layout: page
 title: Talks
-permalink: /talks/
- 
+permalink: /talks/ 
+---
 
 ### Here's a list of all my tech conference activity
 
