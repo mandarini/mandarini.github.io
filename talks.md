@@ -248,6 +248,15 @@ _Date:_ 17 Oct 2018
 #### Description
 Using Angular and WebSockets we will be turning physical motion into virtual motion, in order to perform actions in our browser (navigation, event firing, etc). We will see the integration process step-by-step, resulting in a simple web application using WebSockets, Angular and a plain WebSocket client/server node.js server. Once we launch this application on our phone, it will start sending device motion data from our phone to the browser, using the brand new device event APIs to capture our device’s acceleration, orientation and motion, and our node.js server to perform the transmission. The browser will receive the motion data, and it will translate it into events and actions on the big screen! Tools that are going to be used are the WebSockets API, Angular, RxJS and a little Node.js server. Observable sequences will help us subscribe and listen to incoming messages, firing events in the process. The presentation will be interactive (users connected to the same network will be able to send data with their phone, too).
 
+#### Media
+
+* [Slides](https://mandarini.github.io/ijsm)
+* [Code 1](https://github.com/mandarini/m)
+* [Code 2](https://github.com/mandarini/im)
+* [Code 3](https://github.com/mandarini/wsserver)
+* [Live Demo 1](https://mandarini.github.io/m)
+* [Live Demo 2](https://mandarini.github.io/im)
+
 [top](#heres-a-list-of-all-my-tech-conference-activity)
  
 ___
