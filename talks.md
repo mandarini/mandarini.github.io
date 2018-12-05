@@ -272,6 +272,13 @@ _Date:_ 19 Nov 2018
 #### Description
 In this session will explore the awesome Lighthouse tool and its cool features. We will start from bootstrapping a simple web application, and we will see how we can reach better scores in each of the five audits of Lighthouse, “PWA”, “Performance”, “Accessibility”, “Best Practices” and “SEO” in our web applications. The purpose of the talk will be to showcase how the Lighthouse tool can help us build better apps for the web, and the mobile web. And the accessible web. And the web where connectivity is poor and you end up playing T-Rex runner.
 
+#### Media
+
+* [Video](https://youtu.be/iDdKlM26xsc)
+* [Slides](https://psybercity.page.link/vthess)
+* [Code](https://github.com/mandarini/explorer)
+* [Live Demo](https://mandarini.github.io/explorer)
+
 [top](#heres-a-list-of-all-my-tech-conference-activity)
  
 ___
@@ -287,15 +294,11 @@ _Date:_ 4 Dec 2018
 #### Description
 In this session will explore the awesome Lighthouse tool and its cool features. We will start from bootstrapping a simple web application, and we will see how we can reach better scores in each of the five audits of Lighthouse, “PWA”, “Performance”, “Accessibility”, “Best Practices” and “SEO” in our web applications. The purpose of the talk will be to showcase how the Lighthouse tool can help us build better apps for the web, and the mobile web. And the accessible web. And the web where connectivity is poor and you end up playing T-Rex runner.
 
-### Workshop: From design to deployment with Firebase and Angular
+#### Media
 
-#### Workshop Description
-The participants of this workshop will work hands on with Firebase in an Angular application. They will walk along a journey of designing an app, setting out data requirements, and then putting these things into practice with Angular and the magic of Firebase. At the end of this workshop, each participant will have created and deployed a web application. Firebase acts as a backend as a service and takes care of real time synchronization across apps and platforms. The participants will learn about and use the main Firebase modules needed to develop a simple social application. They will use Authentication, cloud storage and the Cloud Firestore. Best practices about application planning will be discussed, like structuring the data in the API and decisions that need to be made in advance. The workshop needs prior knowledge of web development. Some basic Angular experience is preferable, but not essential. No prior knowledge of Firebase is needed. The users will need a web-development-friendly laptop (preferably a Unix-based system, or Windows with nodejs and npm installed).
-
-#### Workshop info
-_Date:_ 3 Dec 2018
-
-_Duration:_ 8 hours
+* [Slides](https://psybercity.page.link/fec)
+* [Code](https://github.com/mandarini/explorer)
+* [Live Demo](https://mandarini.github.io/explorer)
 
 [top](#heres-a-list-of-all-my-tech-conference-activity)
  
