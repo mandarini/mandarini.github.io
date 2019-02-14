@@ -16,7 +16,7 @@ permalink: /talks/
 - [ngColombia 2018](#ngcolombia-2018)
 - [iJS Munich 2018](#ijs-munich-2018)
 - [Voxxed Days Thessaloniki 2018](#voxxed-days-thessaloniki-2018)
-- [Developer's Day]()
+- [Developer's Day 2019](developers-day-2019)
 - [FrontEnd Connect 2018](#frontend-connect-2018)
 - [ngAtlanta 2019](#ngatlanta-2019)
 - [AngularAthens 5th Meetup](#angularathens-5th-meetup)
