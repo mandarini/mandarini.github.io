@@ -295,7 +295,7 @@ _Date:_ 4 Dec 2018
 In this session will explore the awesome Lighthouse tool and its cool features. We will start from bootstrapping a simple web application, and we will see how we can reach better scores in each of the five audits of Lighthouse, “PWA”, “Performance”, “Accessibility”, “Best Practices” and “SEO” in our web applications. The purpose of the talk will be to showcase how the Lighthouse tool can help us build better apps for the web, and the mobile web. And the accessible web. And the web where connectivity is poor and you end up playing T-Rex runner.
 
 #### Media
-
+* [Video] (https://www.youtube.com/watch?v=X1QGHLkA8Ps)
 * [Slides](https://psybercity.page.link/fec)
 * [Code](https://github.com/mandarini/explorer)
 * [Live Demo](https://mandarini.github.io/explorer)
