@@ -308,3 +308,67 @@ ___
 _Location:_ Altanta, USA
 
 _Date:_ 9 Jan 2019
+
+### Machine Learning - Angular can Learn, too!
+
+#### Description
+A year ago, the much-awaited TensorflowJs hit the web. In this presentation, it hits Angular as well. Tensorflow is a “an open source machine learning framework” by Google, and it is finally available to run in our browsers, too. 
+In this presentation we will go through the core concepts of machine learning, and see how these are put into practice with TensorflowJs. We will briefly discuss use-cases and see how machine learning (and now you and your browser) can help solve everyday problems (such as image recognition, computer vision etc). There will be a live demo, of course, of Angular and TensorflowJs implementation, where we will see how these two work together, and what we can make of this union.
+At the end of this presentation, the participants will want to rush home and get their hands dirty with the future of web, that is the magic of JavaScript enabled machine learning.
+
+#### Media
+
+* [Slides](https://psybercity.page.link/ng-atl)
+* [Code](https://github.com/mandarini/accessible)
+* [Code 2](https://github.com/mandarini/signlock)
+* [Live Demo](https://signlock-psyb.firebaseapp.com/home)
+
+[top](#heres-a-list-of-all-my-tech-conference-activity)
+
+___
+
+## AngularAthens 5th Meetup
+_Location:_ Athens, Greece
+
+_Date:_ 26 Feb 2019
+
+### Exploring the Lighthouse
+
+#### Description
+In this session will explore the awesome Lighthouse tool and its cool features. We will start from bootstrapping a simple web application, and we will see how we can reach better scores in each of the five audits of Lighthouse, “PWA”, “Performance”, “Accessibility”, “Best Practices” and “SEO” in our web applications. The purpose of the talk will be to showcase how the Lighthouse tool can help us build better apps for the web, and the mobile web. And the accessible web. And the web where connectivity is poor and you end up playing T-Rex runner.
+
+#### Media
+
+* [Slides](https://psybercity.page.link/vthess)
+* [Code](https://github.com/mandarini/explorer)
+* [Live Demo](https://mandarini.github.io/explorer)
+
+[top](#heres-a-list-of-all-my-tech-conference-activity)
+ 
+___
+
+## DevStaff Heraklion
+_Location:_ Heraklion, Crete, Greece
+
+_Date:_ 21 March 2019
+
+### Workshop: Getting Real-Time with Firebase and Angular
+
+#### Workshop Description
+The participants of this workshop will work hands on with Firebase in an Angular application. They will walk along a journey of developing an app with Angular and the real-time magic of Firebase, using the angularfire2 library. Firebase acts as a backend as a service and takes care of real time synchronization across apps and platforms. The participants will learn about and use the main Firebase modules needed to develop a simple social application. They will use Authentication, cloud storage and the Real-Time database. Best practices about application planning will be discussed, like structuring the data in the API and decisions that need to be made in advance. At the end of this workshop, each participant will have created and deployed a simple web application. The workshop needs prior knowledge of web development. Some basic Angular experience is preferable, but not essential. No prior knowledge of Firebase is needed. The users will need a web-development-friendly laptop (preferably a Unix-based system, or Windows with nodejs and npm installed).
+
+#### Workshop info
+
+_Duration:_ 4 hours
+
+_Number of participants:_ around 40
+
+#### Workshop Media
+* [Slides](https://psybercity.page.link/ngcw )
+* [Docs](https://github.com/mandarini/ngc-workshop-docs)
+* [Code](https://github.com/mandarini/ngc-workshop)
+* [Live Demo](https://mandarini.github.io/ngc-workshop/)
+
+[top](#heres-a-list-of-all-my-tech-conference-activity)
+  
+___
