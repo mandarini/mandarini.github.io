@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Talks
+title: talks
 permalink: /talks/
 ---
 
@@ -21,6 +21,7 @@ permalink: /talks/
 - [ngAtlanta 2019](#ngatlanta-2019)
 - [AngularAthens 5th Meetup](#angularathens-5th-meetup)
 - [DevStaff Heraklion](#devstaff-heraklion)
+- [Women Techmakers Greece - IWD19](#women-techmakersgreece-IWD19)
 - [ng-conf 2019](#ng-conf-2019)
 
 ## AngularConnect 2017
@@ -420,6 +421,31 @@ _Number of participants:_ around 40
 [top](#heres-a-list-of-all-my-tech-conference-activity)
 
 ---
+
+## Women Techmakers Greece - IWD19
+
+_Location:_ Athens, Greece
+
+_Date:_ 30 March 2019
+
+### Machine Learning - Angular can Learn, too!
+
+#### Description
+
+A year ago, the much-awaited TensorflowJs hit the web. In this presentation, it hits Angular as well. Tensorflow is a “an open source machine learning framework” by Google, and it is finally available to run in our browsers, too.
+In this presentation we will go through the core concepts of machine learning, and see how these are put into practice with TensorflowJs. We will briefly discuss use-cases and see how machine learning (and now you and your browser) can help solve everyday problems (such as image recognition, computer vision etc). There will be a live demo, of course, of Angular and TensorflowJs implementation, where we will see how these two work together, and what we can make of this union.
+At the end of this presentation, the participants will want to rush home and get their hands dirty with the future of web, that is the magic of JavaScript enabled machine learning.
+
+#### Media
+
+- [Slides](https://goo.gl/hrV5zs)
+- [Code](https://github.com/mandarini/accessible)
+- [Code 2](https://github.com/mandarini/signlock)
+- [Live Demo](https://signlock-psyb.firebaseapp.com/home)
+
+[top](#heres-a-list-of-all-my-tech-conference-activity)
+
+------
 
 ## ng-conf 2019
 
