@@ -1,7 +1,5 @@
 ---
 layout: page
-title: Info
-permalink: /info/
 ---
 
 It is build using Jekyll on Github Pages.

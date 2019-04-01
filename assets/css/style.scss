@@ -8,6 +8,16 @@ img.clip-circle {
   margin: 0px;
 }
 
+a, a:link {
+  color: palevioletred;
+}
+
+a:hover,
+a:visited,
+a:active {
+  color: darkmagenta;
+}
+
 .clip-circle {
   clip-path: circle(60px at center);
 }
@@ -24,19 +34,21 @@ img.clip-circle {
 
 body {
   margin: 60px auto;
-  font-family: 'Roboto', 'Arial', 'Sans-Serif';
+  font-family: "Roboto", "Arial", "Sans-Serif";
   width: 70%;
   background-color: transparent;
 }
 
-nav ul, footer ul {
-  font-family: 'Roboto', 'Arial', 'Sans-Serif';
+nav ul,
+footer ul {
+  font-family: "Roboto", "Arial", "Sans-Serif";
   padding: 0px;
   list-style: none;
   font-weight: normal;
 }
 
-nav ul li, footer ul li {
+nav ul li,
+footer ul li {
   margin-right: 20px;
 }
 
@@ -59,32 +71,32 @@ p {
 
 footer {
   border-top: 1px solid #d5d5d5;
-  
+
   .footer-cont {
-   font-size: .8em;
-   display: flex;
-   flex-direction: row;
+    font-size: 0.8em;
+    display: flex;
+    flex-direction: row;
 
-   .footer-item {
-     display: flex;
-     flex-direction: column;
-   }
-
-   .social-sect {
-     div{
+    .footer-item {
       display: flex;
-      flex-direction: row;
-      align-items: center;
-      justify-content: space-between;  
+      flex-direction: column;
+    }
 
-      a {
+    .social-sect {
+      div {
         display: flex;
         flex-direction: row;
         align-items: center;
         justify-content: space-between;
+
+        a {
+          display: flex;
+          flex-direction: row;
+          align-items: center;
+          justify-content: space-between;
+        }
       }
-     }
-   }
+    }
   }
 }
 ul.posts {
@@ -104,12 +116,10 @@ ul.posts li {
 }
 
 .cv-toc {
-
 }
 
 .cv-all-contents {
 }
-
 
 .full-cv-cont {
   font-size: 0.7em;
@@ -137,7 +147,7 @@ ul.posts li {
   border-radius: 5px;
   font-size: 14px;
   h1 {
-   font-size: 18px;
+    font-size: 18px;
   }
 
   h2 {
@@ -177,16 +187,13 @@ ul.posts li {
   }
 }
 
-
 .cv-summary {
-
   p {
     text-align: center;
   }
 }
 
 .cv-skills {
-
   //font-size: 0.9em;
 
   table {
@@ -194,7 +201,8 @@ ul.posts li {
     width: 100%;
   }
 
-  table td, table th {
+  table td,
+  table th {
     border: 1px solid #ddd;
     padding: 8px;
   }

@@ -4,7 +4,7 @@ title: monster
 permalink: /monster/
 ---
 
-## What is that monster?
+### But what is that monster?
 
 You're probably wondering what that monster is.
 

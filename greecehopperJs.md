@@ -4,8 +4,6 @@ title: greecehopperJs
 permalink: /greecehopperJs/
 ---
 
-## greecehopperJs
-
 If you’re outside the main greek urban centers, 
 at a Greek town / village / island:
 
