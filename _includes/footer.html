@@ -1,52 +1,37 @@
 <footer class="site-footer">
+  <div class="wrapper">
+    <h3 class="footer-heading">{{ site.title | escape }}</h3>
 
-    <div class="wrapper">
+    <div class="footer-cont">
+      <div class="footer-item">
+        <ul class="contact-list">
+          <li>
+            {% if site.author %} {{ site.author | escape }} {% else %} {{
+            site.title | escape }} {% endif %}
+          </li>
+          {% if site.email %}
+          <li><a href="{{ site.email }}">{{ site.email }}</a></li>
+          {% endif %}
+        </ul>
+      </div>
 
-        <h3 class="footer-heading">{{ site.title | escape }}</h3>
-
-        <div class="footer-cont">
-            <div class="footer-item">
-                <ul class="contact-list">
-                    <li>
-                        {% if site.author %}
-                        {{ site.author | escape }}
-                        {% else %}
-                        {{ site.title | escape }}
-                        {% endif %}
-                    </li>
-                    {% if site.email %}
-                    <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-                    {% endif %}
-                </ul>
-            </div>
-
-            <div class="footer-item social-sect">
-                
-                    {% if site.github_username %}
-                    <div>
-                        {% include icon-github.html username=site.github_username %}
-                    </div>
-                    {% endif %}
-
-                    {% if site.twitter_username %}
-                    <div>
-                        {% include icon-twitter.html username=site.twitter_username %}
-                    </div>
-                    {% endif %}
-
-                    {% if site.linkedin_username %}
-                    <div>
-                        {% include icon-linkedin.html username=site.linkedin_username %}
-                    </div>
-                    {% endif %}
-                
-            </div>
-
-            <div class="footer-item">
-                <p>{{ site.description | escape }}</p>
-            </div>
+      <div class="footer-item social-sect">
+        {% if site.github_username %}
+        <div>{% include icon-github.html username=site.github_username %}</div>
+        {% endif %} {% if site.twitter_username %}
+        <div>
+          {% include icon-twitter.html username=site.twitter_username %}
         </div>
+        {% endif %} {% if site.linkedin_username %}
+        <div>
+          {% include icon-linkedin.html username=site.linkedin_username %}
+        </div>
+        {% endif %}
+      </div>
 
+      <div class="footer-item">
+        <p>{{ site.description | escape }}</p>
+      </div>
     </div>
-
+  </div>
 </footer>
